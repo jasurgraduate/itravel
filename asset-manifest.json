@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/itravel/static/css/main.f10d6122.css",
-    "main.js": "/itravel/static/js/main.66302a76.js",
+    "main.js": "/itravel/static/js/main.4ae41e1f.js",
     "static/js/453.276bf455.chunk.js": "/itravel/static/js/453.276bf455.chunk.js",
     "index.html": "/itravel/index.html",
     "main.f10d6122.css.map": "/itravel/static/css/main.f10d6122.css.map",
-    "main.66302a76.js.map": "/itravel/static/js/main.66302a76.js.map",
+    "main.4ae41e1f.js.map": "/itravel/static/js/main.4ae41e1f.js.map",
     "453.276bf455.chunk.js.map": "/itravel/static/js/453.276bf455.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f10d6122.css",
-    "static/js/main.66302a76.js"
+    "static/js/main.4ae41e1f.js"
   ]
 }
